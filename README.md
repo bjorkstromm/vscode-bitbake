@@ -1,3 +1,7 @@
+# Archived
+
+Use https://marketplace.visualstudio.com/items?itemName=EugenWiens.bitbake instead. 
+
 # BitBake recipe language support in Visual Studio Code
 Adds syntax highlighting to BitBake recipes in Visual Studio Code.
 
